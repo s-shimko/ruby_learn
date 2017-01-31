@@ -2,15 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5198778c-7bd0-43fd-9699-2094b3538725" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson9/task9_1.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson9/task9_2.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson9/task9_3.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson9/task9_4.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson9/task9_5.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson9/task9_6-7.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson10/data/methods.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson10/task10_1/london.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson10/task10_1/paris.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson10/task10_1/rome.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson10/task10_1/task10_1.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson10/task10_2/electro_device.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson10/task10_2/kettle.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson11/data/bridge.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson11/data/doroga.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson11/task11_1/chameleon.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson11/task11_1/task11_1.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson11/task11_2/man.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson11/task11_2/task11_2.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson11/task11_3/man.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson11/task11_3/task11_3.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson11/task11_4/movie.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson11/task11_4/task11_4.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson11/task11_5/man.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson11/task11_5/movie.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson11/task11_5/task11_5.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson12/data/game.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson12/data/result_printer.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson12/data/viselitsa2.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson12/task12_1/task12_1.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson12/task12_2/buratino.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson12/task12_2/task12_2.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson12/task12_3/bodybuilder.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson12/task12_3/task12_3.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson12/task12_4/data_speak_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson12/task12_4/speak_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson12/task12_4/task12_4.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson13/data/data/quotes.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson13/data/open_file.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson13/data/quote.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson13/task13_1/data/test.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson13/task13_1/data/test2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson13/task13_1/task13_1.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson13/task13_2/data/my_file.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson13/task13_2/task13_2.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson13/task13_3/task13_3.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/ruby_learn.iml" afterPath="$PROJECT_DIR$/.idea/ruby_learn.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/info.rb" afterPath="$PROJECT_DIR$/info.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson8/task8_2_speak_test.rb" afterPath="$PROJECT_DIR$/lesson8/task8_2_speak_test.rb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,42 +59,60 @@
     <SUITE FILE_PATH="coverage/ruby_learn@08_1.coverage" NAME="08-1 Coverage Results" MODIFIED="1483566603745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson8/data" MODULE_NAME="ruby_learn" />
     <SUITE FILE_PATH="coverage/ruby_learn@task6_1.coverage" NAME="task6_1 Coverage Results" MODIFIED="1482527165439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson6" MODULE_NAME="ruby_learn" />
     <SUITE FILE_PATH="coverage/ruby_learn@task5_3.coverage" NAME="task5_3 Coverage Results" MODIFIED="1482491851988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson5" MODULE_NAME="ruby_learn" />
-    <SUITE FILE_PATH="coverage/ruby_learn@objects.coverage" NAME="objects Coverage Results" MODIFIED="1482406974510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson4" MODULE_NAME="ruby_learn" />
     <SUITE FILE_PATH="coverage/ruby_learn@test.coverage" NAME="test Coverage Results" MODIFIED="1483785536737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson9/data" MODULE_NAME="ruby_learn" />
-    <SUITE FILE_PATH="coverage/ruby_learn@task9_6.coverage" NAME="task9_6 Coverage Results" MODIFIED="1483909111882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson9" MODULE_NAME="ruby_learn" />
     <SUITE FILE_PATH="coverage/ruby_learn@task7_2.coverage" NAME="task7_2 Coverage Results" MODIFIED="1482791399260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson7" MODULE_NAME="ruby_learn" />
     <SUITE FILE_PATH="coverage/ruby_learn@task6_4.coverage" NAME="task6_4 Coverage Results" MODIFIED="1482677805163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson6" MODULE_NAME="ruby_learn" />
     <SUITE FILE_PATH="coverage/ruby_learn@argument.coverage" NAME="argument Coverage Results" MODIFIED="1483479218233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson8/data" MODULE_NAME="ruby_learn" />
+    <SUITE FILE_PATH="coverage/ruby_learn@task12_3.coverage" NAME="task12_3 Coverage Results" MODIFIED="1485377233108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson12/task12_3" MODULE_NAME="ruby_learn" />
+    <SUITE FILE_PATH="coverage/ruby_learn@task13_1.coverage" NAME="task13_1 Coverage Results" MODIFIED="1485812430637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson13/task13" MODULE_NAME="ruby_learn" />
+    <SUITE FILE_PATH="coverage/ruby_learn@task11_2.coverage" NAME="task11_2 Coverage Results" MODIFIED="1484995224112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson11/task11_2" MODULE_NAME="ruby_learn" />
+    <SUITE FILE_PATH="coverage/ruby_learn@task4_2.coverage" NAME="task4_2 Coverage Results" MODIFIED="1482408372117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson4" MODULE_NAME="ruby_learn" />
+    <SUITE FILE_PATH="coverage/ruby_learn@task9_5.coverage" NAME="task9_5 Coverage Results" MODIFIED="1483906723389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson9" MODULE_NAME="ruby_learn" />
+    <SUITE FILE_PATH="coverage/ruby_learn@task7_3.coverage" NAME="task7_3 Coverage Results" MODIFIED="1482873293394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson7" MODULE_NAME="ruby_learn" />
+    <SUITE FILE_PATH="coverage/ruby_learn@task11_5__1_.coverage" NAME="task11_5 (1) Coverage Results" MODIFIED="1485001835747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson11/task11_5" MODULE_NAME="ruby_learn" />
+    <SUITE FILE_PATH="coverage/ruby_learn@task4_7.coverage" NAME="task4_7 Coverage Results" MODIFIED="1482435948276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson4" MODULE_NAME="ruby_learn" />
+    <SUITE FILE_PATH="coverage/ruby_learn@test5.coverage" NAME="gets Coverage Results" MODIFIED="1482437773103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson5/data" MODULE_NAME="ruby_learn" />
+    <SUITE FILE_PATH="coverage/ruby_learn@task5_2.coverage" NAME="task5_2 Coverage Results" MODIFIED="1482491105448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson5" MODULE_NAME="ruby_learn" />
+    <SUITE FILE_PATH="coverage/ruby_learn@task11_3__1_.coverage" NAME="task11_3 (1) Coverage Results" MODIFIED="1484996323134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson11/task11_3" MODULE_NAME="ruby_learn" />
+    <SUITE FILE_PATH="coverage/ruby_learn@task11_4.coverage" NAME="task11_4 Coverage Results" MODIFIED="1484998903907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson11/task11_4" MODULE_NAME="ruby_learn" />
+    <SUITE FILE_PATH="coverage/ruby_learn@quote.coverage" NAME="quote Coverage Results" MODIFIED="1485809625098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson13/data" MODULE_NAME="ruby_learn" />
+    <SUITE FILE_PATH="coverage/ruby_learn@06_3.coverage" NAME="06-3 Coverage Results" MODIFIED="1482672474490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson6/data" MODULE_NAME="ruby_learn" />
+    <SUITE FILE_PATH="coverage/ruby_learn@task9_4.coverage" NAME="task9_4 Coverage Results" MODIFIED="1483905001079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson9" MODULE_NAME="ruby_learn" />
+    <SUITE FILE_PATH="coverage/ruby_learn@task5_1.coverage" NAME="task5_1 Coverage Results" MODIFIED="1482442886002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson5" MODULE_NAME="ruby_learn" />
+    <SUITE FILE_PATH="coverage/ruby_learn@task4_1.coverage" NAME="task4_1 Coverage Results" MODIFIED="1482407997862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson4" MODULE_NAME="ruby_learn" />
+    <SUITE FILE_PATH="coverage/ruby_learn@sort.coverage" NAME="sort Coverage Results" MODIFIED="1482710619673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/other" MODULE_NAME="ruby_learn" />
+    <SUITE FILE_PATH="coverage/ruby_learn@arguments.coverage" NAME="arguments Coverage Results" MODIFIED="1483656727924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson8/data" MODULE_NAME="ruby_learn" />
+    <SUITE FILE_PATH="coverage/ruby_learn@task6_2.coverage" NAME="task6-2 Coverage Results" MODIFIED="1482672065763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson6" MODULE_NAME="ruby_learn" />
+    <SUITE FILE_PATH="coverage/ruby_learn@viselitsa.coverage" NAME="viselitsa Coverage Results" MODIFIED="1484726406235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson10/data" MODULE_NAME="ruby_learn" />
+    <SUITE FILE_PATH="coverage/ruby_learn@road.coverage" NAME="road Coverage Results" MODIFIED="1482524869683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson6/data" MODULE_NAME="ruby_learn" />
+    <SUITE FILE_PATH="coverage/ruby_learn@task4_6.coverage" NAME="task4_6 Coverage Results" MODIFIED="1482417081925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson4" MODULE_NAME="ruby_learn" />
+    <SUITE FILE_PATH="coverage/ruby_learn@task12_4.coverage" NAME="task12_4 Coverage Results" MODIFIED="1485607616951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson12/task12_4" MODULE_NAME="ruby_learn" />
+    <SUITE FILE_PATH="coverage/ruby_learn@objects.coverage" NAME="objects Coverage Results" MODIFIED="1482406974510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson4" MODULE_NAME="ruby_learn" />
+    <SUITE FILE_PATH="coverage/ruby_learn@task12_1.coverage" NAME="task12_1 Coverage Results" MODIFIED="1485291436527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson12/task12_1" MODULE_NAME="ruby_learn" />
+    <SUITE FILE_PATH="coverage/ruby_learn@task9_6.coverage" NAME="task9_6 Coverage Results" MODIFIED="1483909111882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson9" MODULE_NAME="ruby_learn" />
+    <SUITE FILE_PATH="coverage/ruby_learn@doroga2.coverage" NAME="doroga2 Coverage Results" MODIFIED="1484994380128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson11/their" MODULE_NAME="ruby_learn" />
+    <SUITE FILE_PATH="coverage/ruby_learn@doroga.coverage" NAME="doroga Coverage Results" MODIFIED="1484993684902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson11" MODULE_NAME="ruby_learn" />
     <SUITE FILE_PATH="coverage/ruby_learn@butovo_full.coverage" NAME="butovo_full Coverage Results" MODIFIED="1482442081135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson5/data" MODULE_NAME="ruby_learn" />
     <SUITE FILE_PATH="coverage/ruby_learn@task6_3.coverage" NAME="task6-3 Coverage Results" MODIFIED="1482673041590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson6" MODULE_NAME="ruby_learn" />
     <SUITE FILE_PATH="coverage/ruby_learn@task7_1.coverage" NAME="task7_1 Coverage Results" MODIFIED="1482766255958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson7" MODULE_NAME="ruby_learn" />
     <SUITE FILE_PATH="coverage/ruby_learn@task7_4.coverage" NAME="task7_4 Coverage Results" MODIFIED="1483048739374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson7" MODULE_NAME="ruby_learn" />
     <SUITE FILE_PATH="coverage/ruby_learn@task5_5.coverage" NAME="task5_5 Coverage Results" MODIFIED="1482509808271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson5" MODULE_NAME="ruby_learn" />
     <SUITE FILE_PATH="coverage/ruby_learn@task9_3.coverage" NAME="task9_3 Coverage Results" MODIFIED="1483791764073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson9" MODULE_NAME="ruby_learn" />
-    <SUITE FILE_PATH="coverage/ruby_learn@task4_2.coverage" NAME="task4_2 Coverage Results" MODIFIED="1482408372117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson4" MODULE_NAME="ruby_learn" />
+    <SUITE FILE_PATH="coverage/ruby_learn@task10_2__1_.coverage" NAME="task10_2 (1) Coverage Results" MODIFIED="1484682398057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson10/task10_2" MODULE_NAME="ruby_learn" />
     <SUITE FILE_PATH="coverage/ruby_learn@task8_1.coverage" NAME="task8_1 Coverage Results" MODIFIED="1483566475751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson8" MODULE_NAME="ruby_learn" />
-    <SUITE FILE_PATH="coverage/ruby_learn@task9_5.coverage" NAME="task9_5 Coverage Results" MODIFIED="1483906723389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson9" MODULE_NAME="ruby_learn" />
     <SUITE FILE_PATH="coverage/ruby_learn@task9_2.coverage" NAME="task9_2 Coverage Results" MODIFIED="1483791123860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson9" MODULE_NAME="ruby_learn" />
-    <SUITE FILE_PATH="coverage/ruby_learn@task7_3.coverage" NAME="task7_3 Coverage Results" MODIFIED="1482873293394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson7" MODULE_NAME="ruby_learn" />
-    <SUITE FILE_PATH="coverage/ruby_learn@task4_7.coverage" NAME="task4_7 Coverage Results" MODIFIED="1482435948276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson4" MODULE_NAME="ruby_learn" />
-    <SUITE FILE_PATH="coverage/ruby_learn@test5.coverage" NAME="gets Coverage Results" MODIFIED="1482437773103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson5/data" MODULE_NAME="ruby_learn" />
-    <SUITE FILE_PATH="coverage/ruby_learn@task5_2.coverage" NAME="task5_2 Coverage Results" MODIFIED="1482491105448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson5" MODULE_NAME="ruby_learn" />
+    <SUITE FILE_PATH="coverage/ruby_learn@task10_1.coverage" NAME="task10_1 Coverage Results" MODIFIED="1484672803807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson10/task10_1" MODULE_NAME="ruby_learn" />
+    <SUITE FILE_PATH="coverage/ruby_learn@open_file.coverage" NAME="open_file Coverage Results" MODIFIED="1485808615649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson13/data" MODULE_NAME="ruby_learn" />
     <SUITE FILE_PATH="coverage/ruby_learn@task4_4.coverage" NAME="task4_4 Coverage Results" MODIFIED="1482409725789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson4" MODULE_NAME="ruby_learn" />
-    <SUITE FILE_PATH="coverage/ruby_learn@task8_2_speak_test.coverage" NAME="task8_2_speak_test Coverage Results" MODIFIED="1483656883710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson8" MODULE_NAME="ruby_learn" />
-    <SUITE FILE_PATH="coverage/ruby_learn@06_3.coverage" NAME="06-3 Coverage Results" MODIFIED="1482672474490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson6/data" MODULE_NAME="ruby_learn" />
-    <SUITE FILE_PATH="coverage/ruby_learn@task9_4.coverage" NAME="task9_4 Coverage Results" MODIFIED="1483905001079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson9" MODULE_NAME="ruby_learn" />
+    <SUITE FILE_PATH="coverage/ruby_learn@task8_2_speak_test.coverage" NAME="task8_2_speak_test Coverage Results" MODIFIED="1485294600174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson8" MODULE_NAME="ruby_learn" />
+    <SUITE FILE_PATH="coverage/ruby_learn@task12_2.coverage" NAME="task12_2 Coverage Results" MODIFIED="1485294598515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson12/task12_2" MODULE_NAME="ruby_learn" />
     <SUITE FILE_PATH="coverage/ruby_learn@task4_3.coverage" NAME="task4_3 Coverage Results" MODIFIED="1482408647259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson4" MODULE_NAME="ruby_learn" />
     <SUITE FILE_PATH="coverage/ruby_learn@05_5.coverage" NAME="05-5 Coverage Results" MODIFIED="1482524178107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson5/data" MODULE_NAME="ruby_learn" />
     <SUITE FILE_PATH="coverage/ruby_learn@task9_1.coverage" NAME="task9_1 Coverage Results" MODIFIED="1483788722414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson9" MODULE_NAME="ruby_learn" />
-    <SUITE FILE_PATH="coverage/ruby_learn@task5_1.coverage" NAME="task5_1 Coverage Results" MODIFIED="1482442886002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson5" MODULE_NAME="ruby_learn" />
-    <SUITE FILE_PATH="coverage/ruby_learn@task4_1.coverage" NAME="task4_1 Coverage Results" MODIFIED="1482407997862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson4" MODULE_NAME="ruby_learn" />
-    <SUITE FILE_PATH="coverage/ruby_learn@sort.coverage" NAME="sort Coverage Results" MODIFIED="1482710619673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/other" MODULE_NAME="ruby_learn" />
-    <SUITE FILE_PATH="coverage/ruby_learn@arguments.coverage" NAME="arguments Coverage Results" MODIFIED="1483656727924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson8/data" MODULE_NAME="ruby_learn" />
+    <SUITE FILE_PATH="coverage/ruby_learn@task11_1.coverage" NAME="task11_1 Coverage Results" MODIFIED="1484994762775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson11/task11_1" MODULE_NAME="ruby_learn" />
     <SUITE FILE_PATH="coverage/ruby_learn@task5_4.coverage" NAME="task5_4 Coverage Results" MODIFIED="1482493521100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson5" MODULE_NAME="ruby_learn" />
-    <SUITE FILE_PATH="coverage/ruby_learn@task6_2.coverage" NAME="task6-2 Coverage Results" MODIFIED="1482672065763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson6" MODULE_NAME="ruby_learn" />
     <SUITE FILE_PATH="coverage/ruby_learn@jealous_test.coverage" NAME="jealous_test Coverage Results" MODIFIED="1483654808232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson8/data" MODULE_NAME="ruby_learn" />
-    <SUITE FILE_PATH="coverage/ruby_learn@road.coverage" NAME="road Coverage Results" MODIFIED="1482524869683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson6/data" MODULE_NAME="ruby_learn" />
-    <SUITE FILE_PATH="coverage/ruby_learn@task4_6.coverage" NAME="task4_6 Coverage Results" MODIFIED="1482417081925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson4" MODULE_NAME="ruby_learn" />
+    <SUITE FILE_PATH="coverage/ruby_learn@methods.coverage" NAME="methods Coverage Results" MODIFIED="1484251615164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson10/data" MODULE_NAME="ruby_learn" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -67,41 +120,41 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="task9_1.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson9/task9_1.rb">
+      <file leaf-file-name="task13_2.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lesson13/task13_2/task13_2.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="23" column="56" lean-forward="false" selection-start-line="23" selection-start-column="56" selection-end-line="23" selection-end-column="56" />
+            <state relative-caret-position="252">
+              <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="task9_2.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson9/task9_2.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
-              <caret line="25" column="23" lean-forward="false" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="methods2.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson9/data/methods2.rb">
+      <file leaf-file-name="task13_3.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson13/task13_3/task13_3.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="14" lean-forward="true" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="task9_6-7.rb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lesson9/task9_6-7.rb">
+      <file leaf-file-name="main.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson13/data/their/2/main.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-193">
-              <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+            <state relative-caret-position="183">
+              <caret line="12" column="23" lean-forward="false" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="my_file.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson13/task13_2/data/my_file.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -109,10 +162,17 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Ruby Class Template" />
+      </list>
+    </option>
+  </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>push</find>
       <find>inject</find>
+      <find>push</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
@@ -124,48 +184,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/lesson4/objects.rb" />
-        <option value="$PROJECT_DIR$/lesson4/task4_1.rb" />
-        <option value="$PROJECT_DIR$/lesson4/task4_2.rb" />
-        <option value="$PROJECT_DIR$/lesson4/task4_3.rb" />
-        <option value="$PROJECT_DIR$/lesson4/task4_4.rb" />
-        <option value="$PROJECT_DIR$/lesson4/task4-5.rb" />
-        <option value="$PROJECT_DIR$/lesson4/task4_6.rb" />
-        <option value="$PROJECT_DIR$/lesson4/task4_7.rb" />
-        <option value="$PROJECT_DIR$/lesson5/data/test5.rb" />
-        <option value="$PROJECT_DIR$/lesson5/data/gets.rb" />
-        <option value="$PROJECT_DIR$/lesson5/data/butovo_full.rb" />
-        <option value="$PROJECT_DIR$/lesson5/task5_1.rb" />
-        <option value="$PROJECT_DIR$/lesson5/task5_2.rb" />
-        <option value="$PROJECT_DIR$/lesson5/task5_3.rb" />
-        <option value="$PROJECT_DIR$/lesson5/task5_4.rb" />
-        <option value="$PROJECT_DIR$/lesson5/task5_5.rb" />
-        <option value="$PROJECT_DIR$/lesson6/data/road.rb" />
-        <option value="$PROJECT_DIR$/lesson6/task6_1.rb" />
-        <option value="$PROJECT_DIR$/lesson6/task6-2.rb" />
-        <option value="$PROJECT_DIR$/lesson6/task6-3.rb" />
-        <option value="$PROJECT_DIR$/lesson6/task6_4.rb" />
-        <option value="$PROJECT_DIR$/other/sort.rb" />
-        <option value="$PROJECT_DIR$/lesson7/task7_1.rb" />
-        <option value="$PROJECT_DIR$/lesson7/task7_2.rb" />
-        <option value="$PROJECT_DIR$/lesson7/task7_3.rb" />
-        <option value="$PROJECT_DIR$/info.txt" />
-        <option value="$PROJECT_DIR$/lesson7/task7_4.rb" />
-        <option value="$PROJECT_DIR$/lesson8/data/argument.rb" />
-        <option value="$PROJECT_DIR$/lesson8/data/jealous_test.rb" />
-        <option value="$PROJECT_DIR$/lesson8/task8_1.rb" />
-        <option value="$PROJECT_DIR$/lesson8/data/08-1.rb" />
-        <option value="$PROJECT_DIR$/lesson8/data/arguments.rb" />
-        <option value="$PROJECT_DIR$/lesson8/task8_2_speak_test.rb" />
-        <option value="$PROJECT_DIR$/lesson9/data/test.rb" />
-        <option value="$PROJECT_DIR$/lesson9/task9_1.rb" />
         <option value="$PROJECT_DIR$/lesson9/task9_2.rb" />
         <option value="$PROJECT_DIR$/lesson9/task9_3.rb" />
-        <option value="$PROJECT_DIR$/info.rb" />
         <option value="$PROJECT_DIR$/lesson9/task9_4.rb" />
         <option value="$PROJECT_DIR$/lesson9/task9_5.rb" />
         <option value="$PROJECT_DIR$/lesson9/task9_6.rb" />
         <option value="$PROJECT_DIR$/lesson9/task9_6-7.rb" />
+        <option value="$PROJECT_DIR$/lesson10/task10_1.rb" />
+        <option value="$PROJECT_DIR$/lesson10/task10_1/rome.rb" />
+        <option value="$PROJECT_DIR$/lesson10/task10_1/london.rb" />
+        <option value="$PROJECT_DIR$/lesson10/task10_1/paris.rb" />
+        <option value="$PROJECT_DIR$/lesson10/task10_1/task10_1.rb" />
+        <option value="$PROJECT_DIR$/lesson10/task10_2/electro_device.rb" />
+        <option value="$PROJECT_DIR$/lesson10/task10_2/task10_2.rb" />
+        <option value="$PROJECT_DIR$/lesson10/task10_2/kettle.rb" />
+        <option value="$PROJECT_DIR$/lesson10/data/their/viselitsa.rb" />
+        <option value="$PROJECT_DIR$/lesson10/data/viselitsa.rb" />
+        <option value="$PROJECT_DIR$/lesson11/bridge.rb" />
+        <option value="$PROJECT_DIR$/lesson11/doroga.rb" />
+        <option value="$PROJECT_DIR$/lesson11/task11_1/chameleon.rb" />
+        <option value="$PROJECT_DIR$/lesson11/task11_1/task11_1.rb" />
+        <option value="$PROJECT_DIR$/lesson11/task11_2/man.rb" />
+        <option value="$PROJECT_DIR$/lesson11/task11_2/task11_2.rb" />
+        <option value="$PROJECT_DIR$/lesson11/task11_3/man.rb" />
+        <option value="$PROJECT_DIR$/lesson11/task11_3/task11_3.rb" />
+        <option value="$PROJECT_DIR$/lesson11/task11_4/movie.rb" />
+        <option value="$PROJECT_DIR$/lesson11/task11_4/task11_4.rb" />
+        <option value="$PROJECT_DIR$/lesson11/task11_5/movie.rb" />
+        <option value="$PROJECT_DIR$/lesson11/task11_5/man.rb" />
+        <option value="$PROJECT_DIR$/lesson11/task11_5/task11_5.rb" />
+        <option value="$PROJECT_DIR$/lesson10/data/methods.rb" />
+        <option value="$PROJECT_DIR$/lesson12/data/viselitsa2.rb" />
+        <option value="$PROJECT_DIR$/lesson12/data/game.rb" />
+        <option value="$PROJECT_DIR$/lesson12/data/result_printer.rb" />
+        <option value="$PROJECT_DIR$/lesson12/task12_1/task12_1.rb" />
+        <option value="$PROJECT_DIR$/lesson12/task12_2/buratino.rb" />
+        <option value="$PROJECT_DIR$/lesson12/task12_2/task12_2.rb" />
+        <option value="$PROJECT_DIR$/lesson12/task12_3/bodybuilder.rb" />
+        <option value="$PROJECT_DIR$/lesson12/task12_3/task12_3.rb" />
+        <option value="$PROJECT_DIR$/lesson8/task8_2_speak_test.rb" />
+        <option value="$PROJECT_DIR$/lesson12/task12_4/data_speak_test.rb" />
+        <option value="$PROJECT_DIR$/lesson12/task12_4/speak_test.rb" />
+        <option value="$PROJECT_DIR$/lesson12/task12_4/task12_4.rb" />
+        <option value="$PROJECT_DIR$/lesson13/data/open_file.rb" />
+        <option value="$PROJECT_DIR$/info.rb" />
+        <option value="$PROJECT_DIR$/lesson13/data/quote.rb" />
+        <option value="$PROJECT_DIR$/lesson13/data/data/quotes.txt" />
+        <option value="$PROJECT_DIR$/lesson13/task13/data/test.txt" />
+        <option value="$PROJECT_DIR$/lesson13/task13/task13_1.rb" />
+        <option value="$PROJECT_DIR$/lesson13/task13/data/test2.txt" />
+        <option value="$PROJECT_DIR$/lesson13/task13_2/data/my_file.txt" />
+        <option value="$PROJECT_DIR$/lesson13/task13_2/task13_2.rb" />
       </list>
     </option>
   </component>
@@ -197,7 +266,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -234,7 +302,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lesson9" />
+              <option name="myItemId" value="lesson13" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="task13_3" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -248,16 +320,13 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lesson9" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
+              <option name="myItemId" value="lesson13" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -269,17 +338,22 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lesson11/task11_5" />
+      <recent name="$PROJECT_DIR$/lesson11/task11_3" />
       <recent name="$PROJECT_DIR$/lesson5" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lesson13/data" />
+      <recent name="$PROJECT_DIR$/lesson11/data" />
+      <recent name="$PROJECT_DIR$/lesson10/task10_1" />
       <recent name="$PROJECT_DIR$/lesson4" />
     </key>
   </component>
-  <component name="RunManager" selected="Ruby.task9_6">
-    <configuration default="false" name="task9_2" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+  <component name="RunManager" selected="Ruby.task13_1">
+    <configuration default="false" name="task12_3" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="ruby_learn" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/lesson9" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/lesson12/task12_3" />
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
@@ -291,14 +365,14 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/lesson9/task9_2.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/lesson12/task12_3/task12_3.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method />
     </configuration>
-    <configuration default="false" name="task9_3" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration default="false" name="task12_4" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="ruby_learn" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/lesson9" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/lesson12/task12_4" />
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
@@ -310,14 +384,14 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/lesson9/task9_3.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/lesson12/task12_4/task12_4.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method />
     </configuration>
-    <configuration default="false" name="task9_4" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration default="false" name="open_file" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="ruby_learn" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/lesson9" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/lesson13/data" />
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
@@ -329,14 +403,14 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/lesson9/task9_4.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/lesson13/data/open_file.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method />
     </configuration>
-    <configuration default="false" name="task9_5" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration default="false" name="quote" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="ruby_learn" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/lesson9" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/lesson13/data" />
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
@@ -348,14 +422,14 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/lesson9/task9_5.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/lesson13/data/quote.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method />
     </configuration>
-    <configuration default="false" name="task9_6" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration default="false" name="task13_1" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="ruby_learn" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/lesson9" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/lesson13/task13_1" />
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
@@ -367,7 +441,7 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/lesson9/task9_6.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/lesson13/task13_1/task13_1.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method />
     </configuration>
@@ -508,19 +582,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Ruby.task9_2" />
-      <item index="1" class="java.lang.String" itemvalue="Ruby.task9_3" />
-      <item index="2" class="java.lang.String" itemvalue="Ruby.task9_4" />
-      <item index="3" class="java.lang.String" itemvalue="Ruby.task9_5" />
-      <item index="4" class="java.lang.String" itemvalue="Ruby.task9_6" />
+      <item index="0" class="java.lang.String" itemvalue="Ruby.task12_3" />
+      <item index="1" class="java.lang.String" itemvalue="Ruby.task12_4" />
+      <item index="2" class="java.lang.String" itemvalue="Ruby.open_file" />
+      <item index="3" class="java.lang.String" itemvalue="Ruby.quote" />
+      <item index="4" class="java.lang.String" itemvalue="Ruby.task13_1" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Ruby.task9_6" />
-        <item index="1" class="java.lang.String" itemvalue="Ruby.task9_5" />
-        <item index="2" class="java.lang.String" itemvalue="Ruby.task9_4" />
-        <item index="3" class="java.lang.String" itemvalue="Ruby.task9_3" />
-        <item index="4" class="java.lang.String" itemvalue="Ruby.task9_2" />
+        <item index="0" class="java.lang.String" itemvalue="Ruby.task13_1" />
+        <item index="1" class="java.lang.String" itemvalue="Ruby.quote" />
+        <item index="2" class="java.lang.String" itemvalue="Ruby.open_file" />
+        <item index="3" class="java.lang.String" itemvalue="Ruby.task12_4" />
+        <item index="4" class="java.lang.String" itemvalue="Ruby.task12_3" />
       </list>
     </recent_temporary>
   </component>
@@ -549,12 +623,30 @@
       <workItem from="1483654704713" duration="5534000" />
       <workItem from="1483730439672" duration="2468000" />
       <workItem from="1483781132067" duration="9731000" />
-      <workItem from="1483894965878" duration="7770000" />
+      <workItem from="1483894965878" duration="8174000" />
+      <workItem from="1483991161779" duration="2808000" />
+      <workItem from="1484166917979" duration="2828000" />
+      <workItem from="1484250212458" duration="3263000" />
+      <workItem from="1484667356851" duration="7729000" />
+      <workItem from="1484726177550" duration="6527000" />
+      <workItem from="1484771858959" duration="1648000" />
+      <workItem from="1484852184714" duration="3117000" />
+      <workItem from="1484985983037" duration="16431000" />
+      <workItem from="1485079242916" duration="2427000" />
+      <workItem from="1485081676758" duration="5904000" />
+      <workItem from="1485119934066" duration="951000" />
+      <workItem from="1485205861368" duration="609000" />
+      <workItem from="1485287464029" duration="4974000" />
+      <workItem from="1485372392668" duration="5752000" />
+      <workItem from="1485554200860" duration="599000" />
+      <workItem from="1485601765406" duration="5755000" />
+      <workItem from="1485806070797" duration="5313000" />
+      <workItem from="1485891316872" duration="6802000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89945000" />
+    <option name="totallyTimeSpent" value="173786000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -569,15 +661,14 @@
     <frame x="1280" y="27" width="1280" height="997" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22077923" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23782468" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26274067" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2876557" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3997735" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -585,6 +676,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -596,11 +688,11 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26274067" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24675325" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29331824" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25324675" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -615,387 +707,388 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="ruby-line">
+          <url>file://$PROJECT_DIR$/lesson12/data/game.rb</url>
+          <line>45</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="24" />
+      <option name="time" value="25" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lesson4/data/04-5.rb">
+    <entry file="file://$PROJECT_DIR$/lesson11/task11_3/task11_3.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson11/task11_3/man.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson11/their/4/film.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson5/data/05-5.rb">
+    <entry file="file://$PROJECT_DIR$/lesson11/their/4/main.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="57" column="23" lean-forward="true" selection-start-line="57" selection-start-column="23" selection-end-line="57" selection-end-column="23" />
+        <state relative-caret-position="-108">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson5/data/05-4.rb">
+    <entry file="file://$PROJECT_DIR$/lesson11/task11_4/movie.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="11" lean-forward="false" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson11/task11_4/task11_4.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="34" lean-forward="true" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson11/their/5/person.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-108">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson11/their/5/film (1).rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson5/data/05-2.rb">
+    <entry file="file://$PROJECT_DIR$/lesson11/their/5/main.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-515">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson11/task11_5/man.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="3" lean-forward="false" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson11/task11_5/movie.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson11/task11_5/task11_5.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="31" lean-forward="false" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson10/data/their/lesson10_homework3/10-3/viselitsa.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-363">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson10/data/their/lesson10_homework3/10-3/viselitsa_methods.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2141">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson10/data/methods.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="139" column="0" lean-forward="false" selection-start-line="139" selection-start-column="0" selection-end-line="141" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson10/data/viselitsa.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson12/data/their/12-1.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson5/data/05-3.rb">
+    <entry file="file://$PROJECT_DIR$/lesson12/data/their/buratino.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson7/data/07-4.rb">
+    <entry file="file://$PROJECT_DIR$/lesson12/data/their/main.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson8/data/argument.rb" />
-    <entry file="file://$PROJECT_DIR$/lesson6/task6-2.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="19" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson7/task7_4.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="583">
-          <caret line="55" column="3" lean-forward="false" selection-start-line="55" selection-start-column="3" selection-end-line="55" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson7/task7_3.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="40" lean-forward="false" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson7/task7_2.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="31" column="7" lean-forward="false" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lesson8/task8_1.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" column="52" lean-forward="false" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson8/data/08-1.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson8/data/arguments.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="13" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson8/data/08-2.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="135" column="2" lean-forward="true" selection-start-line="135" selection-start-column="2" selection-end-line="135" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson8/data/jealous_test.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="80" column="0" lean-forward="false" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/rubystubs22/kernel.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4980">
-          <caret line="390" column="23" lean-forward="false" selection-start-line="390" selection-start-column="19" selection-end-line="390" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/rubystubs22/object.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="591" column="8" lean-forward="false" selection-start-line="591" selection-start-column="8" selection-end-line="591" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson9/data/test.rb" />
-    <entry file="file://$PROJECT_DIR$/lesson7/task7_1.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="457">
-          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="29" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson9/data/09-1.rb">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/ruby-debug-ide-0.6.1.beta3/lib/ruby-debug-ide.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="91" column="0" lean-forward="false" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson9/data/09-2.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson9/data/09-3.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/info.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="439">
-          <caret line="29" column="54" lean-forward="false" selection-start-line="29" selection-start-column="54" selection-end-line="29" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson9/data/09-4.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-47">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson4/task4_2.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson4/task4_1.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson4/task4_3.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson4/task4_4.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson4/task4_5.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson4/task4_6.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson4/task4_7.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson5/task5_1.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson5/task5_2.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson5/task5_3.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson5/task5_4.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson5/task5_5.rb">
+    <entry file="file://$PROJECT_DIR$/lesson12/task12_2/buratino.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="85" selection-end-column="3" />
-          <folding />
+          <caret line="15" column="16" lean-forward="false" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson9/task9_5.rb">
+    <entry file="file://$PROJECT_DIR$/lesson12/task12_2/task12_2.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="547">
-          <caret line="44" column="9" lean-forward="false" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
-          <folding />
+        <state relative-caret-position="162">
+          <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson9/data/09-5.rb">
+    <entry file="file://$PROJECT_DIR$/lesson12/task12_1/task12_1.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-270">
+        <state relative-caret-position="198">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson12/task12_3/bodybuilder.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="27" column="6" lean-forward="false" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson12/data/their/12_3/main.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1127">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson9/data/return.rb">
+    <entry file="file://$PROJECT_DIR$/lesson12/data/their/12_3/body_builder.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson9/data/puts.rb">
+    <entry file="file://$PROJECT_DIR$/lesson12/task12_3/task12_3.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="144">
+          <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson9/data/parameters.rb">
+    <entry file="file://$PROJECT_DIR$/lesson12/task12_4/speak_test.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="437">
+          <caret line="39" column="39" lean-forward="false" selection-start-line="39" selection-start-column="39" selection-end-line="39" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson9/data/methods.rb">
+    <entry file="file://$PROJECT_DIR$/lesson12/task12_4/task12_4.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="252">
+          <caret line="14" column="70" lean-forward="false" selection-start-line="14" selection-start-column="70" selection-end-line="14" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson12/task12_4/data_speak_test.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="16" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson12/data/game.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="42" column="7" lean-forward="false" selection-start-line="42" selection-start-column="7" selection-end-line="42" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lesson8/task8_2_speak_test.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="30" column="12" lean-forward="false" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
-          <folding />
+        <state relative-caret-position="378">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson9/task9_4.rb">
+    <entry file="file://$PROJECT_DIR$/lesson12/data/result_printer.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="30" column="38" lean-forward="false" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
-          <folding />
+        <state relative-caret-position="2610">
+          <caret line="145" column="19" lean-forward="false" selection-start-line="145" selection-start-column="19" selection-end-line="145" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson9/task9_3.rb">
+    <entry file="file://$PROJECT_DIR$/lesson12/data/viselitsa2.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="46" column="38" lean-forward="false" selection-start-line="46" selection-start-column="38" selection-end-line="46" selection-end-column="38" />
-          <folding />
+        <state relative-caret-position="180">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson9/task9_1.rb">
+    <entry file="file://$PROJECT_DIR$/lesson12/data/their/lesson12_homework4/12-4/test.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" column="56" lean-forward="false" selection-start-line="23" selection-start-column="56" selection-end-line="23" selection-end-column="56" />
-          <folding />
+        <state relative-caret-position="-657">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson9/task9_2.rb">
+    <entry file="file://$PROJECT_DIR$/lesson12/data/their/lesson12_homework4/12-4/result_printer.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="25" column="23" lean-forward="false" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
-          <folding />
+        <state relative-caret-position="-1129">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson9/data/methods2.rb">
+    <entry file="file://$PROJECT_DIR$/lesson12/data/their/lesson12_homework4/12-4/main.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-45">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson13/task13_1/data/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="7" lean-forward="false" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson13/data/their/1/main (1).rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="14" lean-forward="true" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson9/task9_6-7.rb">
+    <entry file="file://$PROJECT_DIR$/lesson13/data/open_file.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-193">
-          <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        <state relative-caret-position="162">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson13/data/quote.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="3" lean-forward="false" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson13/data/data/quotes.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="77" lean-forward="false" selection-start-line="5" selection-start-column="77" selection-end-line="5" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/info.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="50" column="3" lean-forward="false" selection-start-line="50" selection-start-column="3" selection-end-line="50" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson13/data/their/1/my_file.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson13/task13_1/task13_1.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson13/task13_1/data/test2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson13/data/their/2/my_file.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson13/task13_3/task13_3.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson13/data/their/2/main.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="12" column="23" lean-forward="false" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson13/task13_2/data/my_file.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson13/task13_2/task13_2.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
           <folding />
         </state>
       </provider>

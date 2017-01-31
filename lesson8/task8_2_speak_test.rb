@@ -28,7 +28,6 @@ puts "Go!"
 
 answer_count = 0
 
-answer = nil
 
 for i in questions do
   puts i

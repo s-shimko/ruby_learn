@@ -30,6 +30,26 @@ puts "Второй способ"
 # To return the first n elements of an array, use take
 arr.take(3) #=> [1, 2, 3]
 
+['M', 'O', 'L', 'O', 'K', 'O'].uniq # => ['M', 'O', 'L', 'K']
+
+[ "a", "b", "c" ].join("-")   #=> "a-b-c"
+
+men.push("Gena", "George", "Misha") # push to array men
+
+# =======================files ============================
+current_path = File.dirname(__FILE__)
+file_path = current_path + '/data/quotes.txt'
+
+puts "Day frase:"
+
+if File.exist?(file_path)
+  f = File.new(file_path, 'r:UTF-8')
+  lines = f.readlines
+  puts lines.sample
+else
+  puts "No file!"
+end
+
 
 
 
