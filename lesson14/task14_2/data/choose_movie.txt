@@ -1,0 +1,11 @@
+File choose_movies.txt
+Captain America: Civil War	Disney	$1,153,304,495
+Good
+Rogue One: A Star Wars Story	$1,036,240,946
+Bad
+Finding Dory	$1,028,131,226
+Not good
+Zootopia	$1,023,784,195
+Not bad
+The Jungle Book	$966,550,600
+So so
