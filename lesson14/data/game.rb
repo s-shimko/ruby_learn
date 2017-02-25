@@ -33,17 +33,35 @@ class Game
   # Method next_step should check letters in guessed word
   # Or from entered letters (arrays @good_letters, @bad_letters)
   # Methods analog check_result from first programm version
+
+  def next_step_capital_letter(bukva)
+      next_step(bukva)
+
+
+  end
+
+
   def next_step(bukva)
+    big_letter = UnicodeUtils.upcase(bukva, :tr)
+
     if @status == -1 || @status == 1
       return
     end
 
-    if @good_letters.include?(bukva) || @bad_letters.include?(bukva)
+    if @good_letters.include?(bukva) || @bad_letters.include?(bukva) ||
+        @good_letters.include?(big_letter) || @bad_letters.include?(big_letter)
       return
     end
 
-    if @letters.include?(bukva)
+    if @letters.include?(bukva) #|| @letters.include?(big_letter)
       @good_letters << bukva
+
+      if @good_letters.size == @letters.uniq.size
+        @status = 1
+      end
+
+    elsif @letters.include?(big_letter)
+      @good_letters << big_letter
 
       if @good_letters.size == @letters.uniq.size
         @status = 1
@@ -59,6 +77,7 @@ class Game
       end
 
     end
+
   end
 
   def letters

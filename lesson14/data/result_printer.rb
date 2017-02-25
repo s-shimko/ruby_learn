@@ -7,17 +7,31 @@ class ResultPrinter
     counter = 0
 
     while counter <= 7 do
-      file_name = current_path + "/image/#{counter}.txt"
+      begin
 
-      if File.exist?(file_name)
+        file_name = current_path + "/image/#{counter}.txt"
+
+
+        # if File.exist?(file_name)
         f = File.new(file_name, 'r')
         @status_image << f.read
         f.close
-      else
-        @status_image << "\n[ Image not found ]\n"
-      end
 
-      counter +=1
+      rescue Errno::ENOENT => e
+        puts "Cant load image!"
+        # puts e.message
+        puts "Number of image is: " + counter.to_s
+        @status_image << "Cant load image #{counter}!"
+      ensure
+
+        # else
+        #   @status_image << "\n[ Image not found ]\n"
+        # end
+
+        counter +=1
+
+
+      end
     end
   end
 

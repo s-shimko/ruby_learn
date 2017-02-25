@@ -1,3 +1,10 @@
+"test\n".chomp
+"two words".split
+"word".include?("o")
+"word".delete("o")
+"Маша и Гоша" =~ /Гоша/ #return index
+"Маша и Гоша".index(/Гоша/)
+
 n = gets.chomp.to_s # обычный способ
 n = gets.encode("UTF-8") # кодировка
 n = STDIN.gets.chomp # если передаются данные из консоли ARGV[0]
@@ -50,7 +57,79 @@ else
   puts "No file!"
 end
 
+”r” : read-only
+”w” : write-only (overwrites anything in the file, if the file exists)
+“w+” : read and write (overwrites anything in the file, if the file exists)
+”a” : write-only (starts at the end of the file, if the file exists)``
 
+
+#-----------------------------------------
+case hero
+  # она может быть равна одной из этих строк
+  when "Бэтмен", "Batman", "бэтмен", "batman"
+  then puts "Джокер!"  # то выведем "Джокер"
+
+  # или одной из этих
+  when "Шерлок Холмс", "шерлок холмс"
+  then puts "Профессор Мориарти"
+
+  # или этих
+  when "Буратино", "буратино"
+  then puts "Карабас-Барабас"
+
+  # через запятую можно перечислить несколько значений, when сработает на любое из них
+  when "Фродо Бэггинс", "фродо бэггинс"
+  then puts "Саурон"
+
+  when "Моцарт", "моцарт"
+  then puts "Сальери"
+
+  # ветка else выполнится только если не сработал ни один из вышеуказанных when-ов
+  else
+    puts "Не удалось найти врага"
+end
+
+
+#=================================================
+begin
+rescue SocketError
+puts "Can't connect to server"
+
+rescue  Net::SMTPSyntaxError => error
+puts "Wrong mail settings: " + error.message
+
+rescue Net::SMTPAuthenticationError => error
+puts "Wrong password: " + error.message
+
+ensure
+puts "Sending attempt complete!"
+
+end
+
+#================================================
+require 'unicode_utils/upcase'
+
+puts "weiß"
+puts UnicodeUtils.upcase("weiß")
+
+2.times {
+  letter = gets.chomp
+  puts UnicodeUtils.upcase("#{letter}", :tr)
+}
+#=========================================
+require "cyrillizer"
+require "unicode_utils"
+
+# original_string = gets.chomp.to_lat.strip.downcase.delete(" ") #for cyrillizer
+original_string = UnicodeUtils.downcase(STDIN.gets.encode("UTF-8").chomp.strip.downcase.delete(' '))
+puts original_string
+revert_string = original_string.reverse
+
+if revert_string == original_string
+  puts "Yes! It's polindrom!"
+else
+  puts "No! It's not polindrom!"
+end
 
 
 

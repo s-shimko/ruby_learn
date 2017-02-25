@@ -1,8 +1,15 @@
+require 'unicode_utils/upcase'
+
 current_path = "./" + File.dirname(__FILE__)
 
+begin
 require_relative current_path + "/game.rb"
 require_relative current_path + "/result_printer.rb"
 require_relative current_path + "/word_reader.rb"
+rescue LoadError => e
+  puts "Path is incorrect!"
+end
+
 
 printer = ResultPrinter.new
 

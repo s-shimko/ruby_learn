@@ -25,10 +25,19 @@ if file_path_foreheads != nil && File.exist?(file_path_foreheads) &&
   f_noses.close
   f_mouths.close
 
-  puts foreheads.sample
-  puts eyes.sample
-  puts noses.sample
-  puts mouths.sample
+  time = Time.now
+  date_time = time.strftime("%d-%m-%Y_%H:%M:%S")
+  face_file = File.new(current_path + "/" + "face_#{date_time}.txt", "a")
+
+  all_lines = []
+  all_lines.push(foreheads.sample, eyes.sample, noses.sample, mouths.sample)
+  puts all_lines
+
+  for item in all_lines do
+    face_file.puts(item)
+  end
+
+  face_file.close
 
 else
   puts "No file!"
